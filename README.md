@@ -1,3 +1,8 @@
+Group 3
+NAMES:MAHORO Michaella
+ID:24897N
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
